@@ -6,7 +6,7 @@ int main() {
     int a = 8;
     int b = 10;
 
-    cout << "Csere elott a = " <<a<<" b = "<<b<<"\n";
+    cout << "Csere elott a = "<<a<<" b = "<<b<<"\n";
 
     a = a^b;
     b = a^b;

@@ -142,4 +142,5 @@ int main()
     25. cin << "Success!\n"; -> cin to output
         cout << "Success!\n";
     */
+    return 0;
 }
